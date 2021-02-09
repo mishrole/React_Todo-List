@@ -1,8 +1,4 @@
 # Todo List App
 
 Project created with ReactJS.
-## Available Scripts
-
-In the project directory, you can run `npm start`.
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Test the app [here](https://mishrole.github.io/React_Todo-List/)
